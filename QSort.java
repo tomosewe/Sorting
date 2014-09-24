@@ -6,7 +6,7 @@
  *	for coding interviews.
  */
  
- import java.util.*; 
+import java.util.*; 
 
 public class QSort {	
 	public static void main (String args[]) {	
